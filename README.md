@@ -1,2 +1,0 @@
-# go-study
-#sssssss
